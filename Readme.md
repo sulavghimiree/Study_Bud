@@ -34,7 +34,7 @@ StudyBuddy is a Django-based web application designed to bring students together
 ## ⚙️ Installation
 
 1. **Clone the repository**  
-   git clone https://github.com/sulavghimiree/Study_Bud
+   git clone https://github.com/sulavghimiree/Study_Buddy
    cd Blogs_Django
 
 2. **Create a virtual environment**  
