@@ -1,6 +1,6 @@
-# 📚 StudyBud
+# 📚 StudyBuddy
 
-StudyBud is a Django-based web application designed to bring students together in virtual rooms for collaboration, discussion, and study. Users can create accounts, join rooms, participate in conversations, and build a study community.
+StudyBuddy is a Django-based web application designed to bring students together in virtual rooms for collaboration, discussion, and study. Users can create accounts, join rooms, participate in conversations, and build a study community.
 
 ---
 
