@@ -27,14 +27,14 @@ StudyBud is a Django-based web application designed to bring students together i
 
 ## 📸 Screenshots
 
-_Add screenshots of your homepage, chat room, login/signup, etc. here._
+![alt text](image.png)
 
 ---
 
 ## ⚙️ Installation
 
 1. **Clone the repository**  
-   git clone https://github.com/sulavghimiree/Blogs_Django  
+   git clone https://github.com/sulavghimiree/Study_Bud
    cd Blogs_Django
 
 2. **Create a virtual environment**  
